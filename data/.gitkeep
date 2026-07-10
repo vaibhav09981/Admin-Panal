@@ -1,0 +1,2 @@
+Placeholder so the data/ directory is kept in git. The SQLite database
+(app.db) is created automatically on first run and is git-ignored.
